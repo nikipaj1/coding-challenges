@@ -1,5 +1,5 @@
-from algorithms import Algorithms
+from dsa_study.graphs import run
 
 
 if __name__ == "__main__":
-    print("Hi")
+  run()
